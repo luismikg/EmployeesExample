@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherExample</string>
+    <string name="add_employee">Agregar nuevo empleado</string>
+    <string name="select_employee">Selecciona un empleado de la lista</string>
+</resources>
